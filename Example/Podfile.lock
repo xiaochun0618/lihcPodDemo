@@ -1,0 +1,16 @@
+PODS:
+  - lihcPodDemo (0.1.0)
+
+DEPENDENCIES:
+  - lihcPodDemo (from `../`)
+
+EXTERNAL SOURCES:
+  lihcPodDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  lihcPodDemo: 12ba4420db176ef53a7917741c7e67887ae2b056
+
+PODFILE CHECKSUM: e69ef1f0e429b2a10f7cd123b06c83be185b1757
+
+COCOAPODS: 1.5.3
